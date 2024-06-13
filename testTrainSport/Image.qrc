@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/train.png</file>
+        <file>Image/car.png</file>
+        <file>Image/routeBackimage.png</file>
+    </qresource>
+</RCC>
